@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋! My name is Rakesh Mallarpu and I'm a Computer Science Student </h2>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 <h3 align="center">A passionate about [DataScience, Web-developer, Fronted-developer] from India.</h3>
 
