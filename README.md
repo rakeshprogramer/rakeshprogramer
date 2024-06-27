@@ -1,6 +1,4 @@
 <h2 align="center">Hi 👋! My name is Rakesh Mallarpu and I'm a Computer Science Student </h2>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
-
 <h3 align="center">A passionate about [DataScience, Web-developer, Fronted-developer] from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshprogramer&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshprogramer" /> </p>
@@ -8,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshprogramer" alt="rakeshprogramer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
+
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and also MongoDB.**
 
