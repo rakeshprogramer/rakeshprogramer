@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
+<img align="right" alt="Coding" width="400" src="https://asset.cloudinary.com/dwocxt3l5/22cccec49aa3094713099741c7451efe">
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and also MongoDB.**
